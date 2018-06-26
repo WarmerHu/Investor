@@ -1,0 +1,6 @@
+This is an application to help myself invest to better product.
+
+It separates several parts:
+1. Crawler to gather product information
+2. Calculator to evaluate the production
+3. Displayer to show up the result
